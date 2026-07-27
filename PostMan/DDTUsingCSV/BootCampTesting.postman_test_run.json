@@ -1,0 +1,647 @@
+{
+	"id": "ec7eeb01-5e8c-4c3a-89e7-895555b20f8e",
+	"name": "BootCampTesting",
+	"timestamp": "2026-07-25T08:28:19.896Z",
+	"collection_id": "56868287-740910df-a208-4c5f-8860-ac9b2c2f187e",
+	"folder_id": 0,
+	"environment_id": "56868287-197342a8-d292-4ad4-b8a6-2db77c7a1f38",
+	"totalPass": 5,
+	"delay": 0,
+	"persist": true,
+	"status": "error",
+	"startedAt": "2026-07-25T08:27:28.340Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "0c570cb6-d1a1-4915-9f21-34d1e09fd538",
+			"name": "POSTRequest Method-JSON 1",
+			"url": "https://jsonplaceholder.typicode.com/posts",
+			"time": 395,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1260,
+				369,
+				443,
+				360,
+				395
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "6be6a315-96fa-4400-9e72-34706dac993c",
+			"name": "POSTRequest Method -JSON2",
+			"url": "https://jsonplaceholder.typicode.com/posts",
+			"time": 460,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				511,
+				622,
+				530,
+				342,
+				460
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "f1425143-7e68-4023-9b4c-ce0e84d1eff2",
+			"name": "POSTRequest Method JSON3",
+			"url": "https://jsonplaceholder.typicode.com/posts",
+			"time": 345,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				327,
+				446,
+				449,
+				344,
+				345
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "f189ed53-69d0-4fa4-a235-ab07e3b6821f",
+			"name": "POSTRequest Method-Reqbin",
+			"url": "https://reqbin.com/echo/post/json",
+			"time": 416,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				791,
+				533,
+				927,
+				392,
+				416
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "102a1b9d-7f3b-48a3-a9f2-84d11769674e",
+			"name": "POSTRequest Method -Reqbin",
+			"url": "https://reqbin.com/echo/post/json",
+			"time": 427,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				410,
+				526,
+				634,
+				397,
+				427
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "85095f10-b9d7-4aab-9a97-f7164c86bd96",
+			"name": "GETRequestMethod-JSON1",
+			"url": "https://jsonplaceholder.typicode.com/posts/1",
+			"time": 109,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 5,
+					"fail": 0
+				}
+			},
+			"times": [
+				107,
+				135,
+				113,
+				126,
+				109
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "b3433ae6-1bc7-48ca-a118-b7ade56a4aee",
+			"name": "GETRequestMethod-JSON2",
+			"url": "https://jsonplaceholder.typicode.com/comments?postId=1",
+			"time": 123,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				117,
+				142,
+				140,
+				147,
+				123
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "b5c2e1cb-4345-444b-81b3-46c1b116cbab",
+			"name": "GETRequest Method-Postman",
+			"url": "http://postman-echo.com/get",
+			"time": 344,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				631,
+				292,
+				426,
+				381,
+				344
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "9c5c5d66-2358-48c3-ab36-477a2eec56d7",
+			"name": "GETRequest Method-Restapiexample1",
+			"url": "https://api.restful-api.dev/objects",
+			"time": 237,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				717,
+				223,
+				227,
+				320,
+				237
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "7969e4a5-1def-430b-8ecd-a6c0aee06aaf",
+			"name": "GETRequest-Restapiexample2",
+			"url": "http://postman-echo.com/get",
+			"time": 802,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				420,
+				303,
+				321,
+				345,
+				802
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "da536142-4623-4a01-9b1c-3bb2568b3a97",
+			"name": "PUTRequest Method-REST1",
+			"url": "https://dummy.restapiexample.com/api/v1/update/21",
+			"time": 453,
+			"responseCode": {
+				"code": 429,
+				"name": "Too Many Requests"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				1177,
+				1046,
+				1250,
+				453
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "ca331199-7caf-4620-9555-c2ddaf0c508b",
+			"name": "PUTRequest Method-RESTapi2",
+			"url": "https://dummy.restapiexample.com/api/v1/update/21",
+			"time": 321,
+			"responseCode": {
+				"code": 429,
+				"name": "Too Many Requests"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				347,
+				313,
+				427,
+				321
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "0e0b6466-5c4f-48d2-bdba-56f7da0e8680",
+			"name": "PUTRequest-JSON PLACEHOLDER1",
+			"url": "https://jsonplaceholder.typicode.com/posts/1",
+			"time": 456,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				794,
+				336,
+				348,
+				456
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "0c36bba3-6764-471b-b7fc-5bb2856f6ceb",
+			"name": "PUTRequest-JSON PLACEHOLDER2",
+			"url": "https://jsonplaceholder.typicode.com/posts/1",
+			"time": 336,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				344,
+				424,
+				318,
+				336
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "51738f7b-14d3-4209-8bdf-28b531f0dc0d",
+			"name": "PUTRequest-JSON PLACEHOLDER 3",
+			"url": "https://jsonplaceholder.typicode.com/posts/1",
+			"time": 377,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				318,
+				438,
+				357,
+				377
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "4a8283d0-d406-4bb4-af26-353ebbfa1cbc",
+			"name": "DELETERequest-Dummy Restapi1",
+			"url": "https://dummy.restapiexample.com/api/v1/delete/2",
+			"time": 423,
+			"responseCode": {
+				"code": 429,
+				"name": "Too Many Requests"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				3024,
+				532,
+				328,
+				423
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "08a7624f-eb10-43f1-bd30-7046c610d544",
+			"name": "DELETERequest-Dummy Restapi2",
+			"url": "https://dummy.restapiexample.com/api/v1/delete/2",
+			"time": 305,
+			"responseCode": {
+				"code": 429,
+				"name": "Too Many Requests"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				406,
+				315,
+				341,
+				305
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "f516957e-e19f-4f1c-b09e-7152958a56c8",
+			"name": "DELETERequest-Dummy Restapi3",
+			"url": "https://dummy.restapiexample.com/api/v1/delete/2",
+			"time": 314,
+			"responseCode": {
+				"code": 429,
+				"name": "Too Many Requests"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				420,
+				338,
+				545,
+				314
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "2cf0a2cc-52a4-4b1e-bf28-7d5d3ed0b0e9",
+			"name": "DELETERequest-Dummy Restapi4",
+			"url": "https://dummy.restapiexample.com/api/v1/delete/2",
+			"time": 323,
+			"responseCode": {
+				"code": 429,
+				"name": "Too Many Requests"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				418,
+				438,
+				312,
+				323
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "84614da9-e5f1-4d74-80ff-5cfe22a0fd3a",
+			"name": "DELETERequest-Dummy Restapi5",
+			"url": "https://dummy.restapiexample.com/api/v1/delete/2",
+			"time": 334,
+			"responseCode": {
+				"code": 429,
+				"name": "Too Many Requests"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				437,
+				362,
+				316,
+				334
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "73491a2d-3f93-4b2c-8a3e-58c6c4445523",
+			"name": "POST Requets Call Variable",
+			"url": "https://fakestoreapi.com/products",
+			"time": 345,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				657,
+				413,
+				299,
+				345
+			],
+			"allTests": [
+				{},
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 5,
+	"totalTime": 42029,
+	"collection": {
+		"requests": [
+			{
+				"id": "0c570cb6-d1a1-4915-9f21-34d1e09fd538",
+				"method": "POST"
+			},
+			{
+				"id": "6be6a315-96fa-4400-9e72-34706dac993c",
+				"method": "POST"
+			},
+			{
+				"id": "f1425143-7e68-4023-9b4c-ce0e84d1eff2",
+				"method": "POST"
+			},
+			{
+				"id": "f189ed53-69d0-4fa4-a235-ab07e3b6821f",
+				"method": "POST"
+			},
+			{
+				"id": "102a1b9d-7f3b-48a3-a9f2-84d11769674e",
+				"method": "POST"
+			},
+			{
+				"id": "85095f10-b9d7-4aab-9a97-f7164c86bd96",
+				"method": "GET"
+			},
+			{
+				"id": "b3433ae6-1bc7-48ca-a118-b7ade56a4aee",
+				"method": "GET"
+			},
+			{
+				"id": "b5c2e1cb-4345-444b-81b3-46c1b116cbab",
+				"method": "GET"
+			},
+			{
+				"id": "9c5c5d66-2358-48c3-ab36-477a2eec56d7",
+				"method": "GET"
+			},
+			{
+				"id": "7969e4a5-1def-430b-8ecd-a6c0aee06aaf",
+				"method": "GET"
+			},
+			{
+				"id": "da536142-4623-4a01-9b1c-3bb2568b3a97",
+				"method": "PUT"
+			},
+			{
+				"id": "ca331199-7caf-4620-9555-c2ddaf0c508b",
+				"method": "PUT"
+			},
+			{
+				"id": "0e0b6466-5c4f-48d2-bdba-56f7da0e8680",
+				"method": "PUT"
+			},
+			{
+				"id": "0c36bba3-6764-471b-b7fc-5bb2856f6ceb",
+				"method": "PUT"
+			},
+			{
+				"id": "51738f7b-14d3-4209-8bdf-28b531f0dc0d",
+				"method": "PUT"
+			},
+			{
+				"id": "4a8283d0-d406-4bb4-af26-353ebbfa1cbc",
+				"method": "DELETE"
+			},
+			{
+				"id": "08a7624f-eb10-43f1-bd30-7046c610d544",
+				"method": "DELETE"
+			},
+			{
+				"id": "f516957e-e19f-4f1c-b09e-7152958a56c8",
+				"method": "DELETE"
+			},
+			{
+				"id": "2cf0a2cc-52a4-4b1e-bf28-7d5d3ed0b0e9",
+				"method": "DELETE"
+			},
+			{
+				"id": "84614da9-e5f1-4d74-80ff-5cfe22a0fd3a",
+				"method": "DELETE"
+			},
+			{
+				"id": "73491a2d-3f93-4b2c-8a3e-58c6c4445523",
+				"method": "POST"
+			}
+		]
+	}
+}

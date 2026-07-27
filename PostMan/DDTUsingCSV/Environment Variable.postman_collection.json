@@ -1,0 +1,40 @@
+{
+  "info": {
+    "_postman_id": "fc5ea46b-bbfc-4d2b-9120-0274ac581871",
+    "name": "Environment Variable",
+    "description": "### Welcome to Postman! This is your first collection. \n\nCollections are your starting point for building and testing APIs. You can use this one to:\n\n• Group related requests\n• Test your API in real-world scenarios\n• Document and share your requests\n\nUpdate the name and overview whenever you’re ready to make it yours.\n\n[Learn more about Postman Collections.](https://learning.postman.com/docs/collections/collections-overview/)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "56868287",
+    "_collection_link": "https://go.postman.co/collection/56868287-fc5ea46b-bbfc-4d2b-9120-0274ac581871?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "POST Requets Call Variable",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n    \"id\": 0,\r\n    \"title\": \"{{title}}\",\r\n    \"price\": \"{{price}}\",\r\n    \"description\": \"{{description}}\",\r\n    \"category\": \"{{category}}\",\r\n    \"image\": \"https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png\"\r\n    \r\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://fakestoreapi.com/products",
+          "protocol": "https",
+          "host": [
+            "fakestoreapi",
+            "com"
+          ],
+          "path": [
+            "products"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
