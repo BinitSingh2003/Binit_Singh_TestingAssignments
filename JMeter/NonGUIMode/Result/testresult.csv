@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1784785175784,1175,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1172,0,576
+1784785175586,1375,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1371,0,763
+1784785175386,1580,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1573,0,963
+1784785175081,1885,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1844,0,1268
+1784785175188,1785,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1779,0,1161
+1784785175983,1135,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1127,0,580
+1784785176185,1312,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1272,0,665
+1784785176382,1167,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1166,0,586
+1784785176584,1199,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,872,0,582
+1784785176782,1187,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1184,0,597
+1784785176962,1056,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-4,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,1056,0,757
+1784785176962,1056,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-5,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,1056,0,819
+1784785178018,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-4,text,false,,875,0,10,10,null,0,0,0
+1784785176967,1052,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-1,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,1052,0,814
+1784785178018,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-5,text,false,,875,0,10,10,null,0,0,0
+1784785178019,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-1,text,false,,875,0,10,10,null,0,0,0
+1784785176967,1062,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-3,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,1062,0,815
+1784785178030,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-3,text,false,,875,0,10,10,null,0,0,0
+1784785177119,941,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-6,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,941,0,705
+1784785178061,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-6,text,false,,875,0,10,10,null,0,0,0
+1784785176974,1094,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-2,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,1094,0,850
+1784785178069,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-2,text,false,,875,0,10,10,null,0,0,0
+1784785177498,880,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-7,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,880,0,659
+1784785178379,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-7,text,false,,875,0,10,10,null,0,0,0
+1784785177549,980,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-8,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,980,0,745
+1784785178530,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-8,text,false,,875,0,10,10,null,0,0,0
+1784785178020,578,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,287,0,0
+1784785178020,583,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,290,0,0
+1784785178061,552,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,280,0,0
+1784785178019,598,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,301,0,0
+1784785178030,588,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,304,0,0
+1784785178069,588,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,295,0,0
+1784785177784,1036,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-9,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,1036,0,760
+1784785178820,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-9,text,false,,875,0,10,10,null,0,0,0
+1784785177969,920,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-10,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,920,0,675
+1784785178890,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-10,text,false,,875,0,10,10,null,0,0,0
+1784785178599,306,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,305,0,0
+1784785178613,304,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,302,0,0
+1784785178604,324,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,321,0,0
+1784785178618,332,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,331,0,0
+1784785178618,335,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,334,0,0
+1784785178657,318,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,318,0,0
+1784785178379,614,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,315,0,0
+1784785178531,624,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,349,0,0
+1784785178994,352,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,325,0,0
+1784785178821,590,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,304,0,0
+1784785179156,388,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,318,0,0
+1784785178890,655,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,300,0,0
+1784785179412,364,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,364,0,0
+1784785179545,315,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,310,0,0
+1784785178976,1545,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,122026,144,10,10,https://practicetestautomation.com/practice-test-login/,1265,0,341
+1784785178906,1668,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,121870,144,10,10,https://practicetestautomation.com/practice-test-login/,1343,0,412
+1784785178954,1648,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,122032,144,10,10,https://practicetestautomation.com/practice-test-login/,1295,0,364
+1784785178929,1682,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,122019,144,10,10,https://practicetestautomation.com/practice-test-login/,1359,0,388
+1784785178918,1695,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,122026,144,10,10,https://practicetestautomation.com/practice-test-login/,1344,0,399
+1784785178952,1666,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,122022,144,10,10,https://practicetestautomation.com/practice-test-login/,1376,0,366
+1784785179545,1329,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,122026,144,10,10,https://practicetestautomation.com/practice-test-login/,1136,0,235
+1784785179347,1565,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,121869,144,10,10,https://practicetestautomation.com/practice-test-login/,1306,0,337
+1784785180612,450,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,32709,126,10,10,https://maven.apache.org/download.cgi,447,0,123
+1784785180603,553,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,528,0,132
+1784785180614,545,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,520,0,121
+1784785180522,637,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,608,0,214
+1784785180619,565,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,537,0,116
+1784785180575,609,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,569,0,160
+1784785179777,1443,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,122027,144,10,10,https://practicetestautomation.com/practice-test-login/,1287,0,240
+1784785179860,1381,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,122031,144,10,10,https://practicetestautomation.com/practice-test-login/,1209,0,282
+1784785180875,477,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,32805,126,10,10,https://maven.apache.org/download.cgi,442,0,185
+1784785180913,466,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,421,0,219
+1784785181221,388,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,347,0,134
+1784785181242,385,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,32798,126,10,10,https://maven.apache.org/download.cgi,341,0,141
+1784785181185,489,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,26644,227,10,10,https://cucumber.io/docs/,360,0,238
+1784785181185,360,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-1,,true,,738,113,10,10,https://cucumber.io/docs,360,0,238
+1784785181546,128,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,25906,114,10,10,https://cucumber.io/docs/,115,0,0
+1784785181160,532,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,26648,227,10,10,https://cucumber.io/docs/,396,0,263
+1784785181160,396,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-6,,true,,748,113,10,10,https://cucumber.io/docs,396,0,263
+1784785181556,136,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,25900,114,10,10,https://cucumber.io/docs/,123,0,0
+1784785181157,570,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,26641,227,10,10,https://cucumber.io/docs/,419,0,268
+1784785181157,419,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-3,,true,,739,113,10,10,https://cucumber.io/docs,419,0,268
+1784785181576,151,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,25902,114,10,10,https://cucumber.io/docs/,136,0,0
+1784785181063,673,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,26638,227,10,10,https://cucumber.io/docs/,513,0,377
+1784785181063,513,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-5,,true,,736,113,10,10,https://cucumber.io/docs,513,0,377
+1784785181576,160,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,25902,114,10,10,https://cucumber.io/docs/,143,0,0
+1784785181185,571,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,26643,227,10,10,https://cucumber.io/docs/,426,0,277
+1784785181185,426,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-4,,true,,737,113,10,10,https://cucumber.io/docs,426,0,277
+1784785181611,145,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,25906,114,10,10,https://cucumber.io/docs/,131,0,0
+1784785181160,673,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,26639,227,10,10,https://cucumber.io/docs/,483,0,298
+1784785181160,483,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-2,,true,,739,113,10,10,https://cucumber.io/docs,483,0,298
+1784785181644,189,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,25900,114,10,10,https://cucumber.io/docs/,179,0,0
+1784785181353,556,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,26634,227,10,10,https://cucumber.io/docs/,403,0,240
+1784785181353,403,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-8,,true,,730,113,10,10,https://cucumber.io/docs,403,0,240
+1784785181756,153,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,25904,114,10,10,https://cucumber.io/docs/,141,0,0
+1784785181380,650,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,26634,227,10,10,https://cucumber.io/docs/,478,0,260
+1784785181380,478,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-7,,true,,738,113,10,10,https://cucumber.io/docs,478,0,260
+1784785181859,171,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,25896,114,10,10,https://cucumber.io/docs/,149,0,0
+1784785181729,316,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,18943,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,301,0,95
+1784785181611,485,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,26630,227,10,10,https://cucumber.io/docs/,340,0,214
+1784785181611,340,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-9,,true,,732,113,10,10,https://cucumber.io/docs,340,0,214
+1784785181951,145,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,25898,114,10,10,https://cucumber.io/docs/,132,0,0
+1784785181628,469,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,26626,227,10,10,https://cucumber.io/docs/,328,0,202
+1784785181628,328,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-10,,true,,730,113,10,10,https://cucumber.io/docs,328,0,202
+1784785181956,141,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,25896,114,10,10,https://cucumber.io/docs/,126,0,0
+1784785181738,472,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,18893,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,467,0,86
+1784785181834,377,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,18893,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,374,0,71
+1784785181757,460,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,18894,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,455,0,68
+1784785181693,531,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,511,0,131
+1784785181675,549,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,529,0,146
+1784785181911,314,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,18927,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,295,0,57
+1784785182098,290,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,18942,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,270,0,56
+1784785182043,635,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,18936,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,626,0,65
+1784785182098,600,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,18908,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,595,0,56
+1784785182045,1520,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,139268,144,10,10,https://practicetestautomation.com/practice-test-table/,1387,0,0
+1784785182698,876,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,138720,144,10,10,https://practicetestautomation.com/practice-test-table/,755,0,0
+1784785182389,1202,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,138706,144,10,10,https://practicetestautomation.com/practice-test-table/,1091,0,0
+1784785182679,937,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,138561,144,10,10,https://practicetestautomation.com/practice-test-table/,804,0,0
+1784785183592,579,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,570,0,0
+1784785183575,606,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,596,0,0
+1784785183617,619,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,608,0,0
+1784785184171,250,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-9,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,250,0,0
+1784785184181,240,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-10,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,240,0,0
+1784785184421,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-10,text,false,,875,0,10,10,null,0,0,0
+1784785184421,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-9,text,false,,875,0,10,10,null,0,0,0
+1784785183566,888,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,594,0,0
+1784785184236,218,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-7,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,218,0,0
+1784785184455,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-7,text,false,,875,0,10,10,null,0,0,0
+1784785182211,2388,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,139270,144,10,10,https://practicetestautomation.com/practice-test-table/,2250,0,0
+1784785182211,2400,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,139264,144,10,10,https://practicetestautomation.com/practice-test-table/,2275,0,0
+1784785182225,2394,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,139268,144,10,10,https://practicetestautomation.com/practice-test-table/,2267,0,0
+1784785182225,2394,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,139272,144,10,10,https://practicetestautomation.com/practice-test-table/,2260,0,0
+1784785182225,2445,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,139119,144,10,10,https://practicetestautomation.com/practice-test-table/,2287,0,0
+1784785184455,231,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-3,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,231,0,0
+1784785184687,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-3,text,false,,875,0,10,10,null,0,0,0
+1784785184422,304,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,301,0,0
+1784785184422,313,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,308,0,0
+1784785184455,305,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,303,0,0
+1784785182218,2579,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,139270,144,10,10,https://practicetestautomation.com/practice-test-table/,2446,0,0
+1784785184727,317,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,316,0,0
+1784785184735,313,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,311,0,0
+1784785184760,312,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,311,0,0
+1784785184619,563,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,560,0,0
+1784785184599,589,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,584,0,0
+1784785184619,583,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,569,0,0
+1784785184611,602,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,601,0,0
+1784785184671,586,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,586,0,0
+1784785184687,581,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,299,0,0
+1784785184797,605,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,602,0,0
+1784785185188,226,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-5,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,225,0,0
+1784785185414,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-5,text,false,,875,0,10,10,null,0,0,0
+1784785185182,240,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-6,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,240,0,0
+1784785185423,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-6,text,false,,875,0,10,10,null,0,0,0
+1784785185202,240,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-8,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,239,0,0
+1784785185442,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-8,text,false,,875,0,10,10,null,0,0,0
+1784785185212,265,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-2,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,264,0,0
+1784785185478,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-2,text,false,,875,0,10,10,null,0,0,0
+1784785185048,438,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,122026,144,10,10,https://practicetestautomation.com/practice-test-login/,370,0,0
+1784785185044,504,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,122024,144,10,10,https://practicetestautomation.com/practice-test-login/,442,0,0
+1784785185257,297,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-1,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,294,0,0
+1784785185555,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-1,text,false,,875,0,10,10,null,0,0,0
+1784785185072,485,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,121875,144,10,10,https://practicetestautomation.com/practice-test-login/,411,0,0
+1784785185268,334,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,334,0,0
+1784785185403,234,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-4,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,231,0,0
+1784785185637,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-4,text,false,,875,0,10,10,null,0,0,0
+1784785185423,286,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,284,0,0
+1784785185416,302,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,302,0,0
+1784785185443,312,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,307,0,0
+1784785185485,271,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,236,0,0
+1784785185548,259,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,32798,126,10,10,https://maven.apache.org/download.cgi,219,0,0
+1784785185558,269,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,32806,126,10,10,https://maven.apache.org/download.cgi,228,0,0
+1784785185638,288,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,286,0,0
+1784785185603,379,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,122026,144,10,10,https://practicetestautomation.com/practice-test-login/,340,0,0
+1784785185709,295,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,292,0,0
+1784785185756,257,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,26639,227,10,10,https://cucumber.io/docs/,106,0,0
+1784785185756,106,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-10,,true,,739,113,10,10,https://cucumber.io/docs,106,0,0
+1784785185862,151,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,25900,114,10,10,https://cucumber.io/docs/,123,0,0
+1784785185756,305,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,302,0,0
+1784785185808,254,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,26643,227,10,10,https://cucumber.io/docs/,108,0,0
+1784785185719,343,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,334,0,0
+1784785185808,108,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-9,,true,,745,113,10,10,https://cucumber.io/docs,108,0,0
+1784785185917,145,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,25898,114,10,10,https://cucumber.io/docs/,139,0,0
+1784785185478,642,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,344,0,0
+1784785185556,586,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,311,0,0
+1784785185827,332,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,26625,227,10,10,https://cucumber.io/docs/,138,0,0
+1784785185827,138,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-7,,true,,729,113,10,10,https://cucumber.io/docs,138,0,0
+1784785185965,194,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,25896,114,10,10,https://cucumber.io/docs/,175,0,0
+1784785186013,213,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,207,0,0
+1784785185983,244,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,32797,126,10,10,https://maven.apache.org/download.cgi,208,0,0
+1784785185927,302,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,301,0,0
+1784785186063,226,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,18963,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,214,0,0
+1784785186004,373,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,122032,144,10,10,https://practicetestautomation.com/practice-test-login/,343,0,0
+1784785186160,222,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,18963,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,205,0,0
+1784785186062,378,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,122028,144,10,10,https://practicetestautomation.com/practice-test-login/,324,0,0
+1784785186143,306,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,305,0,0
+1784785186063,390,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,122026,144,10,10,https://practicetestautomation.com/practice-test-login/,346,0,0
+1784785186121,333,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,332,0,0
+1784785186227,306,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,26633,227,10,10,https://cucumber.io/docs/,118,0,0
+1784785186227,118,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-3,,true,,729,113,10,10,https://cucumber.io/docs,118,0,0
+1784785186345,188,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,25904,114,10,10,https://cucumber.io/docs/,178,0,0
+1784785186229,371,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,122030,144,10,10,https://practicetestautomation.com/practice-test-login/,331,0,0
+1784785186227,375,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,138716,144,10,10,https://practicetestautomation.com/practice-test-table/,335,0,0
+1784785186378,258,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,32813,126,10,10,https://maven.apache.org/download.cgi,229,0,0
+1784785186440,264,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,32709,126,10,10,https://maven.apache.org/download.cgi,240,0,0
+1784785186290,416,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,138708,144,10,10,https://practicetestautomation.com/practice-test-table/,353,0,0
+1784785186453,267,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,240,0,0
+1784785186533,209,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,18894,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,203,0,0
+1784785186382,441,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,138565,144,10,10,https://practicetestautomation.com/practice-test-table/,376,0,0
+1784785186454,393,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,122022,144,10,10,https://practicetestautomation.com/practice-test-login/,333,0,0
+1784785186600,259,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,32805,126,10,10,https://maven.apache.org/download.cgi,231,0,0
+1784785186450,416,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,121869,144,10,10,https://practicetestautomation.com/practice-test-login/,364,0,0
+1784785186636,270,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,26633,227,10,10,https://cucumber.io/docs/,129,0,0
+1784785186636,129,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-6,,true,,735,113,10,10,https://cucumber.io/docs,129,0,0
+1784785186766,140,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,25898,114,10,10,https://cucumber.io/docs/,133,0,0
+1784785186721,294,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,26639,227,10,10,https://cucumber.io/docs/,145,0,0
+1784785186721,145,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-5,,true,,731,113,10,10,https://cucumber.io/docs,145,0,0
+1784785186866,149,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,25908,114,10,10,https://cucumber.io/docs/,135,0,0
+1784785186705,316,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,26631,227,10,10,https://cucumber.io/docs/,156,0,0
+1784785186705,156,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-8,,true,,733,113,10,10,https://cucumber.io/docs,156,0,0
+1784785186862,159,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,25898,114,10,10,https://cucumber.io/docs/,148,0,0
+1784785186866,238,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,222,0,0
+1784785186848,263,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,32791,126,10,10,https://maven.apache.org/download.cgi,229,0,0
+1784785186743,379,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,138714,144,10,10,https://practicetestautomation.com/practice-test-table/,331,0,0
+1784785186907,220,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,18956,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,205,0,0
+1784785186859,299,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,26639,227,10,10,https://cucumber.io/docs/,137,0,0
+1784785186859,137,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-4,,true,,733,113,10,10,https://cucumber.io/docs,137,0,0
+1784785186996,162,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,25906,114,10,10,https://cucumber.io/docs/,147,0,0
+1784785186603,613,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,578,0,0
+1784785187015,225,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,202,0,0
+1784785187022,230,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,218,0,0
+1784785186707,568,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,567,0,0
+1784785187105,270,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,26623,227,10,10,https://cucumber.io/docs/,117,0,0
+1784785187105,117,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-1,,true,,727,113,10,10,https://cucumber.io/docs,117,0,0
+1784785187223,152,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,25896,114,10,10,https://cucumber.io/docs/,137,0,0
+1784785187158,219,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,210,0,0
+1784785187217,218,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-10,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,218,0,0
+1784785186823,612,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,608,0,0
+1784785187435,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-10,text,false,,875,0,10,10,null,0,0,0
+1784785187112,343,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,26630,227,10,10,https://cucumber.io/docs/,162,0,0
+1784785187112,162,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-2,,true,,734,113,10,10,https://cucumber.io/docs,162,0,0
+1784785187274,181,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,25896,114,10,10,https://cucumber.io/docs/,165,0,0
+1784785187127,378,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,138726,144,10,10,https://practicetestautomation.com/practice-test-table/,343,0,0
+1784785187276,231,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-9,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,231,0,0
+1784785187508,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-9,text,false,,875,0,10,10,null,0,0,0
+1784785187375,233,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,220,0,0
+1784785187252,376,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,138712,144,10,10,https://practicetestautomation.com/practice-test-table/,324,0,0
+1784785187241,390,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,138716,144,10,10,https://practicetestautomation.com/practice-test-table/,334,0,0
+1784785187435,230,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-7,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,229,0,0
+1784785187665,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-7,text,false,,875,0,10,10,null,0,0,0
+1784785187122,572,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,568,0,0
+1784785187377,369,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,138712,144,10,10,https://practicetestautomation.com/practice-test-table/,329,0,0
+1784785187694,237,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-3,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,233,0,0
+1784785187931,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-3,text,false,,875,0,10,10,null,0,0,0
+1784785187455,566,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,18922,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,550,0,0
+1784785187435,592,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,298,0,0
+1784785187608,433,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,138561,144,10,10,https://practicetestautomation.com/practice-test-table/,376,0,0
+1784785187505,569,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,568,0,0
+1784785187508,582,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,294,0,0
+1784785187629,566,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,563,0,0
+1784785187631,587,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,586,0,0
+1784785187666,603,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,303,0,0
+1784785188075,223,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-6,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,222,0,0
+1784785188298,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-6,text,false,,875,0,10,10,null,0,0,0
+1784785187746,588,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,587,0,0
+1784785188028,312,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,312,0,0
+1784785188090,295,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,294,0,0
+1784785188021,373,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,138714,144,10,10,https://practicetestautomation.com/practice-test-table/,323,0,0
+1784785188196,236,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-8,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,236,0,0
+1784785188432,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-8,text,false,,875,0,10,10,null,0,0,0
+1784785188219,242,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-5,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,242,0,0
+1784785188461,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-5,text,false,,875,0,10,10,null,0,0,0
+1784785187932,616,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,593,0,0
+1784785188335,218,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-4,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,215,0,0
+1784785188553,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-4,text,false,,875,0,10,10,null,0,0,0
+1784785188270,321,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,321,0,0
+1784785188041,596,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,592,0,0
+1784785188341,384,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,122022,144,10,10,https://practicetestautomation.com/practice-test-login/,336,0,0
+1784785188385,408,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,122036,144,10,10,https://practicetestautomation.com/practice-test-login/,355,0,0
+1784785188549,306,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,302,0,0
+1784785188637,250,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-1,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,250,0,0
+1784785188888,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-1,text,false,,875,0,10,10,null,0,0,0
+1784785188299,591,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,323,0,0
+1784785188726,228,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,32799,126,10,10,https://maven.apache.org/download.cgi,200,0,0
+1784785188394,616,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,612,0,0
+1784785188432,580,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,296,0,0
+1784785188592,422,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,121863,144,10,10,https://practicetestautomation.com/practice-test-login/,378,0,0
+1784785188793,226,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,209,0,0
+1784785188461,584,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,297,0,0
+1784785188554,623,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,333,0,0
+1784785188891,322,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,295,0,0
+1784785188954,298,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,26631,227,10,10,https://cucumber.io/docs/,103,0,0
+1784785188954,103,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-10,,true,,735,113,10,10,https://cucumber.io/docs,103,0,0
+1784785189057,195,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,25896,114,10,10,https://cucumber.io/docs/,157,0,0
+1784785188855,425,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,122020,144,10,10,https://practicetestautomation.com/practice-test-login/,397,0,0
+1784785189011,285,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-2,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,285,0,0
+1784785189015,281,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,256,0,0
+1784785189296,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-2,text,false,,875,0,10,10,null,0,0,0
+1784785189019,320,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,26639,227,10,10,https://cucumber.io/docs/,114,0,0
+1784785189019,114,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-9,,true,,733,113,10,10,https://cucumber.io/docs,114,0,0
+1784785189133,206,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,25906,114,10,10,https://cucumber.io/docs/,164,0,0
+1784785189012,334,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,333,0,0
+1784785189045,308,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,307,0,0
+1784785189252,250,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,18901,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,225,0,0
+1784785189177,365,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,360,0,0
+1784785188888,657,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,339,0,0
+1784785189281,289,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,32820,126,10,10,https://maven.apache.org/download.cgi,263,0,0
+1784785189339,295,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,277,0,0
+1784785189214,424,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,122030,144,10,10,https://practicetestautomation.com/practice-test-login/,369,0,0
+1784785189346,431,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,122024,144,10,10,https://practicetestautomation.com/practice-test-login/,339,0,0
+1784785189353,452,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,122020,144,10,10,https://practicetestautomation.com/practice-test-login/,365,0,0
+1784785189297,510,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,26639,227,10,10,https://cucumber.io/docs/,286,0,0
+1784785189297,286,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-7,,true,,737,113,10,10,https://cucumber.io/docs,286,0,0
+1784785189583,224,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,25902,114,10,10,https://cucumber.io/docs/,215,0,0
+1784785189545,321,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,320,0,0
+1784785189570,299,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,26633,227,10,10,https://cucumber.io/docs/,121,0,0
+1784785189570,121,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-3,,true,,732,113,10,10,https://cucumber.io/docs,121,0,0
+1784785189691,178,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,25901,114,10,10,https://cucumber.io/docs/,150,0,0
+1784785189638,340,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,32715,126,10,10,https://maven.apache.org/download.cgi,323,0,0
+1784785189503,476,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,138720,144,10,10,https://practicetestautomation.com/practice-test-table/,333,0,0
+1784785189542,497,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,122030,144,10,10,https://practicetestautomation.com/practice-test-login/,440,0,0
+1784785189297,744,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,351,0,0
+1784785189778,285,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,32799,126,10,10,https://maven.apache.org/download.cgi,267,0,0
+1784785189807,335,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,18901,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,276,0,0
+1784785189806,355,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,32709,126,10,10,https://maven.apache.org/download.cgi,277,0,0
+1784785189635,559,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,138714,144,10,10,https://practicetestautomation.com/practice-test-table/,418,0,0
+1784785189869,332,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,18894,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,326,0,0
+1784785189867,524,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,121867,144,10,10,https://practicetestautomation.com/practice-test-login/,362,0,0
+1784785190040,590,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,381,0,0
+1784785189978,838,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,26635,227,10,10,https://cucumber.io/docs/,223,0,0
+1784785189978,223,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-6,,true,,739,113,10,10,https://cucumber.io/docs,223,0,0
+1784785190202,614,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,25896,114,10,10,https://cucumber.io/docs/,472,0,0
+1784785190041,946,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,906,0,0
+1784785190064,1141,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,26636,227,10,10,https://cucumber.io/docs/,181,0,0
+1784785190064,181,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-8,,true,,730,113,10,10,https://cucumber.io/docs,181,0,0
+1784785190246,959,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,25906,114,10,10,https://cucumber.io/docs/,767,0,0
+1784785190144,2722,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,138561,144,10,10,https://practicetestautomation.com/practice-test-table/,1222,0,0
+1784785190202,2765,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,138716,144,10,10,https://practicetestautomation.com/practice-test-table/,1640,0,0
+1784785190392,2647,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,32784,126,10,10,https://maven.apache.org/download.cgi,2504,0,0
+1784785190162,2976,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,26631,227,10,10,https://cucumber.io/docs/,482,0,0
+1784785190162,482,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-5,,true,,735,113,10,10,https://cucumber.io/docs,482,0,0
+1784785190644,2494,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,25896,114,10,10,https://cucumber.io/docs/,2444,0,0
+1784785189980,3164,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,3070,0,0
+1784785190817,2369,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,18901,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,2348,0,0
+1784785190988,2358,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,122022,144,10,10,https://practicetestautomation.com/practice-test-login/,2226,0,0
+1784785191206,2152,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,2144,0,0
+1784785190196,3172,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,3165,0,0
+1784785190632,2793,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,26627,227,10,10,https://cucumber.io/docs/,2439,0,0
+1784785190632,2439,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-4,,true,,733,113,10,10,https://cucumber.io/docs,2439,0,0
+1784785193072,353,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,25894,114,10,10,https://cucumber.io/docs/,339,0,0
+1784785193138,315,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,302,0,0
+1784785193146,309,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-10,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,309,0,0
+1784785193455,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-10,text,false,,875,0,10,10,null,0,0,0
+1784785193039,470,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,26633,227,10,10,https://cucumber.io/docs/,339,0,0
+1784785193039,339,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-1,,true,,733,113,10,10,https://cucumber.io/docs,339,0,0
+1784785193378,131,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,25900,114,10,10,https://cucumber.io/docs/,115,0,0
+1784785193186,419,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,138716,144,10,10,https://practicetestautomation.com/practice-test-table/,369,0,0
+1784785193369,239,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-9,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,239,0,0
+1784785193608,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-9,text,false,,875,0,10,10,null,0,0,0
+1784785193426,268,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,251,0,0
+1784785192867,851,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,844,0,0
+1784785193359,382,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,138716,144,10,10,https://practicetestautomation.com/practice-test-table/,338,0,0
+1784785193509,236,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,18957,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,233,0,0
+1784785192967,791,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,791,0,0
+1784785193455,318,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,313,0,0
+1784785193453,400,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,138714,144,10,10,https://practicetestautomation.com/practice-test-table/,346,0,0
+1784785193346,596,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,32764,126,10,10,https://maven.apache.org/download.cgi,578,0,0
+1784785193718,229,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-7,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,228,0,0
+1784785193947,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-7,text,false,,875,0,10,10,null,0,0,0
+1784785193759,259,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-3,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,259,0,0
+1784785194019,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-3,text,false,,875,0,10,10,null,0,0,0
+1784785193773,315,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,314,0,0
+1784785193695,397,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,138712,144,10,10,https://practicetestautomation.com/practice-test-table/,356,0,0
+1784785193606,560,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,545,0,0
+1784785193745,435,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,138573,144,10,10,https://practicetestautomation.com/practice-test-table/,388,0,0
+1784785193608,573,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,292,0,0
+1784785193947,345,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,339,0,0
+1784785193943,351,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,26636,227,10,10,https://cucumber.io/docs/,152,0,0
+1784785193943,152,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-2,,true,,730,113,10,10,https://cucumber.io/docs,152,0,0
+1784785194095,199,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,25906,114,10,10,https://cucumber.io/docs/,177,0,0
+1784785194019,311,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,306,0,0
+1784785193741,603,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,601,0,0
+1784785194166,240,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-6,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,237,0,0
+1784785194407,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-6,text,false,,875,0,10,10,null,0,0,0
+1784785193854,595,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,595,0,0
+1784785194089,391,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,122030,144,10,10,https://practicetestautomation.com/practice-test-login/,336,0,0
+1784785194181,315,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,315,0,0
+1784785194295,231,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,18901,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,220,0,0
+1784785194345,227,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-8,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,227,0,0
+1784785194573,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-8,text,false,,875,0,10,10,null,0,0,0
+1784785194292,308,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,306,0,0
+1784785194331,301,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,296,0,0
+1784785194450,244,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-5,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,244,0,0
+1784785194694,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-5,text,false,,875,0,10,10,null,0,0,0
+1784785194092,609,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,607,0,0
+1784785194480,262,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,32786,126,10,10,https://maven.apache.org/download.cgi,254,0,0
+1784785194181,596,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,590,0,0
+1784785194526,474,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,138726,144,10,10,https://practicetestautomation.com/practice-test-table/,313,0,0
+1784785194496,515,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,122030,144,10,10,https://practicetestautomation.com/practice-test-login/,363,0,0
+1784785194701,312,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-4,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,311,0,0
+1784785195014,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-4,text,false,,875,0,10,10,null,0,0,0
+1784785194407,610,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,282,0,0
+1784785194600,554,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,121889,144,10,10,https://practicetestautomation.com/practice-test-login/,434,0,0
+1784785194632,545,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,122026,144,10,10,https://practicetestautomation.com/practice-test-login/,433,0,0
+1784785194778,399,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-1,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,399,0,0
+1784785195177,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-1,text,false,,875,0,10,10,null,0,0,0
+1784785194742,438,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,26633,227,10,10,https://cucumber.io/docs/,227,0,0
+1784785194742,227,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-10,,true,,731,113,10,10,https://cucumber.io/docs,227,0,0
+1784785194969,211,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,25902,114,10,10,https://cucumber.io/docs/,208,0,0
+1784785194573,619,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,293,0,0
+1784785195011,296,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,275,0,0
+1784785195018,325,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,319,0,0
+1784785195180,267,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,18922,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,207,0,0
+1784785195177,286,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,228,0,0
+1784785195155,344,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,280,0,0
+1784785194695,809,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,448,0,0
+1784785195192,359,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,344,0,0
+1784785195308,321,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,26627,227,10,10,https://cucumber.io/docs/,166,0,0
+1784785195308,166,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-9,,true,,729,113,10,10,https://cucumber.io/docs,166,0,0
+1784785195474,155,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,25898,114,10,10,https://cucumber.io/docs/,134,0,0
+1784785195001,638,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,618,0,0
+1784785195014,635,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,338,0,0
+1784785195343,475,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,122022,144,10,10,https://practicetestautomation.com/practice-test-login/,398,0,0
+1784785195464,381,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,26625,227,10,10,https://cucumber.io/docs/,119,0,0
+1784785195464,119,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-3,,true,,731,113,10,10,https://cucumber.io/docs,119,0,0
+1784785195583,262,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,25894,114,10,10,https://cucumber.io/docs/,227,0,0
+1784785195504,355,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,350,0,0
+1784785195447,616,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,138712,144,10,10,https://practicetestautomation.com/practice-test-table/,417,0,0
+1784785195499,579,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,26636,227,10,10,https://cucumber.io/docs/,175,0,0
+1784785195499,175,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-7,,true,,736,113,10,10,https://cucumber.io/docs,175,0,0
+1784785195674,404,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,25900,114,10,10,https://cucumber.io/docs/,381,0,0
+1784785195630,465,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,448,0,0
+1784785195177,927,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,402,0,0
+1784785195639,475,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-2,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,475,0,0
+1784785196114,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-2,text,false,,875,0,10,10,null,0,0,0
+1784785195649,615,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,603,0,0
+1784785195552,727,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,122024,144,10,10,https://practicetestautomation.com/practice-test-login/,573,0,0
+1784785195845,467,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,18894,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,450,0,0
+1784785195818,494,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,469,0,0
+1784785195860,686,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,122024,144,10,10,https://practicetestautomation.com/practice-test-login/,469,0,0
+1784785196079,493,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,18956,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,469,0,0
+1784785196064,546,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,519,0,0
+1784785196105,579,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,541,0,0
+1784785196115,664,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,597,0,0
+1784785196095,993,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,138708,144,10,10,https://practicetestautomation.com/practice-test-table/,709,0,0
+1784785196280,894,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,32709,126,10,10,https://maven.apache.org/download.cgi,853,0,0
+1784785196265,1130,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,122022,144,10,10,https://practicetestautomation.com/practice-test-login/,1013,0,0
+1784785196312,1233,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,138720,144,10,10,https://practicetestautomation.com/practice-test-table/,1084,0,0
+1784785196546,1021,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,32785,126,10,10,https://maven.apache.org/download.cgi,1003,0,0
+1784785196610,963,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-10,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,963,0,0
+1784785197573,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-10,text,false,,875,0,10,10,null,0,0,0
+1784785196572,1138,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,138561,144,10,10,https://practicetestautomation.com/practice-test-table/,1014,0,0
+1784785196313,1466,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,26631,227,10,10,https://cucumber.io/docs/,466,0,0
+1784785196313,466,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-6,,true,,727,113,10,10,https://cucumber.io/docs,466,0,0
+1784785196779,1000,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,25904,114,10,10,https://cucumber.io/docs/,937,0,0
+1784785196684,1954,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,121875,144,10,10,https://practicetestautomation.com/practice-test-login/,1126,0,0
+1784785196779,2113,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,2075,0,0
+1784785197088,2037,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,1990,0,0
+1784785197395,1816,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,1780,0,0
+1784785197574,1763,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,1757,0,0
+1784785197780,1577,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,18929,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,1559,0,0
+1784785197174,2235,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,26635,227,10,10,https://cucumber.io/docs/,1742,0,0
+1784785197174,1742,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-8,,true,,731,113,10,10,https://cucumber.io/docs,1742,0,0
+1784785198917,492,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,25904,114,10,10,https://cucumber.io/docs/,470,0,0
+1784785198894,774,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,122024,144,10,10,https://practicetestautomation.com/practice-test-login/,563,0,0
+1784785197568,2130,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,26635,227,10,10,https://cucumber.io/docs/,1645,0,0
+1784785197568,1645,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-5,,true,,727,113,10,10,https://cucumber.io/docs,1645,0,0
+1784785199213,485,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,25908,114,10,10,https://cucumber.io/docs/,464,0,0
+1784785199126,583,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-9,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,583,0,0
+1784785199709,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-9,text,false,,875,0,10,10,null,0,0,0
+1784785197545,2192,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,2189,0,0
+1784785198638,1101,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,32805,126,10,10,https://maven.apache.org/download.cgi,739,0,0
+1784785199338,507,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,437,0,0
+1784785199409,443,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,347,0,0
+1784785197710,2147,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,2143,0,0
+1784785199358,594,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,138712,144,10,10,https://practicetestautomation.com/practice-test-table/,512,0,0
+1784785199212,757,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,26641,227,10,10,https://cucumber.io/docs/,487,0,0
+1784785199212,487,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-4,,true,,741,113,10,10,https://cucumber.io/docs,487,0,0
+1784785199699,270,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,25900,114,10,10,https://cucumber.io/docs/,256,0,0
+1784785199668,327,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,32792,126,10,10,https://maven.apache.org/download.cgi,302,0,0
+1784785199699,306,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,18907,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,296,0,0
+1784785199709,304,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,301,0,0
+1784785199857,241,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-7,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,240,0,0
+1784785200099,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-7,text,false,,875,0,10,10,null,0,0,0
+1784785199738,374,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-3,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,374,0,0
+1784785200112,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-3,text,false,,875,0,10,10,null,0,0,0
+1784785199739,399,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,26633,227,10,10,https://cucumber.io/docs/,266,0,0
+1784785199739,266,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-1,,true,,727,113,10,10,https://cucumber.io/docs,266,0,0
+1784785200005,133,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,25906,114,10,10,https://cucumber.io/docs/,121,0,0
+1784785199969,226,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,18901,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,226,0,0
+1784785199852,473,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,138710,144,10,10,https://practicetestautomation.com/practice-test-table/,358,0,0
+1784785199845,489,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,122020,144,10,10,https://practicetestautomation.com/practice-test-login/,380,0,0
+1784785200013,327,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,324,0,0
+1784785199996,361,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,26641,227,10,10,https://cucumber.io/docs/,149,0,0
+1784785199996,149,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-2,,true,,735,113,10,10,https://cucumber.io/docs,149,0,0
+1784785200145,212,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,25906,114,10,10,https://cucumber.io/docs/,195,0,0
+1784785200138,277,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,263,0,0
+1784785200013,446,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,138710,144,10,10,https://practicetestautomation.com/practice-test-table/,357,0,0
+1784785200099,366,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,364,0,0
+1784785199953,589,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,588,0,0
+1784785200195,417,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,138718,144,10,10,https://practicetestautomation.com/practice-test-table/,358,0,0
+1784785200358,257,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,18915,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,232,0,0
+1784785200335,284,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,278,0,0
+1784785200542,316,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-6,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,316,0,0
+1784785200859,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-6,text,false,,875,0,10,10,null,0,0,0
+1784785200466,401,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,395,0,0
+1784785200113,755,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,355,0,0
+1784785200340,530,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,122024,144,10,10,https://practicetestautomation.com/practice-test-login/,403,0,0
+1784785200415,495,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,138563,144,10,10,https://practicetestautomation.com/practice-test-table/,412,0,0
+1784785200325,614,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,609,0,0
+1784785200619,374,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,26629,227,10,10,https://cucumber.io/docs/,199,0,0
+1784785200619,199,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-10,,true,,729,113,10,10,https://cucumber.io/docs,199,0,0
+1784785200818,175,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,25900,114,10,10,https://cucumber.io/docs/,158,0,0
+1784785200615,515,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,138722,144,10,10,https://practicetestautomation.com/practice-test-table/,330,0,0
+1784785200871,268,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,260,0,0
+1784785200459,683,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,681,0,0
+1784785200939,246,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-8,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,246,0,0
+1784785201186,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-8,text,false,,875,0,10,10,null,0,0,0
+1784785200868,321,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,320,0,0
+1784785200613,595,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,587,0,0
+1784785200868,410,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,121873,144,10,10,https://practicetestautomation.com/practice-test-login/,368,0,0
+1784785201208,220,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-4,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,220,0,0
+1784785201142,286,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-5,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,286,0,0
+1784785201428,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-4,text,false,,875,0,10,10,null,0,0,0
+1784785201428,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-5,text,false,,875,0,10,10,null,0,0,0
+1784785200859,616,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,286,0,0
+1784785200910,599,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,585,0,0
+1784785200993,522,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,502,0,0
+1784785201131,399,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,27408,144,10,10,https://www.easycalculation.com/calculator-download.php,392,0,0
+1784785201279,279,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,253,0,0
+1784785201139,419,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,26639,227,10,10,https://cucumber.io/docs/,251,0,0
+1784785201139,251,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-9,,true,,737,113,10,10,https://cucumber.io/docs,251,0,0
+1784785201390,168,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,25902,114,10,10,https://cucumber.io/docs/,148,0,0
+1784785201190,452,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,122038,144,10,10,https://practicetestautomation.com/practice-test-login/,378,0,0
+1784785201428,309,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,297,0,0
+1784785201428,322,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,308,0,0
+1784785201509,242,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-1,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,242,0,0
+1784785201752,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-1,text,false,,875,0,10,10,null,0,0,0
+1784785201476,289,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,23161,139,10,10,https://www.easycalculation.com/formulas/index.php,288,0,0
+1784785201531,249,HTTP Request,200,,Non-GUI TestCases Using CSV Files 1-2,text,true,,4824,173,10,10,https://petstore.octoperf.com/actions/Catalog.action?viewProduct=&productId=RP-SN-01,249,0,0
+1784785201780,0,,Non HTTP response code: java.net.MalformedURLException,Non HTTP response message: Illegal character found in host: '/',Non-GUI TestCases Using CSV Files 1-2,text,false,,875,0,10,10,null,0,0,0
+1784785201186,615,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,31595,142,10,10,https://www.easycalculation.com/charts-and-tables.php,328,0,0
+1784785201559,260,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,18902,134,10,10,https://jmeter.apache.org/download_jmeter.cgi,235,0,0
+1784785201643,270,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,32717,126,10,10,https://maven.apache.org/download.cgi,225,0,0
+1784785201558,362,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,26639,227,10,10,https://cucumber.io/docs/,153,0,0
+1784785201558,153,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-7,,true,,735,113,10,10,https://cucumber.io/docs,153,0,0
+1784785201711,209,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,25904,114,10,10,https://cucumber.io/docs/,156,0,0
+1784785201516,483,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-10,text,true,,138722,144,10,10,https://practicetestautomation.com/practice-test-table/,368,0,0
+1784785201737,332,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,23161,139,9,9,https://www.easycalculation.com/formulas/index.php,302,0,0
+1784785201752,365,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,31595,142,9,9,https://www.easycalculation.com/charts-and-tables.php,320,0,0
+1784785201750,385,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,23161,139,9,9,https://www.easycalculation.com/formulas/index.php,382,0,0
+1784785201780,384,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,31595,142,9,9,https://www.easycalculation.com/charts-and-tables.php,373,0,0
+1784785201802,446,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,23161,139,9,9,https://www.easycalculation.com/formulas/index.php,435,0,0
+1784785201920,341,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,18902,134,9,9,https://jmeter.apache.org/download_jmeter.cgi,299,0,0
+1784785201765,515,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,122034,144,9,9,https://practicetestautomation.com/practice-test-login/,407,0,0
+1784785201819,549,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-9,text,true,,138710,144,9,9,https://practicetestautomation.com/practice-test-table/,474,0,0
+1784785201914,463,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,26630,227,8,8,https://cucumber.io/docs/,162,0,0
+1784785201914,162,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-3,,true,,730,113,8,8,https://cucumber.io/docs,162,0,0
+1784785202076,301,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,25900,114,8,8,https://cucumber.io/docs/,293,0,0
+1784785202117,294,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,23161,139,8,8,https://www.easycalculation.com/formulas/index.php,291,0,0
+1784785202069,393,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,122024,144,8,8,https://practicetestautomation.com/practice-test-login/,357,0,0
+1784785202164,310,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,23161,139,8,8,https://www.easycalculation.com/formulas/index.php,309,0,0
+1784785202136,383,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,122034,144,8,8,https://practicetestautomation.com/practice-test-login/,340,0,0
+1784785202280,285,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,32717,126,8,8,https://maven.apache.org/download.cgi,239,0,0
+1784785202248,373,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,122024,144,8,8,https://practicetestautomation.com/practice-test-login/,323,0,0
+1784785202378,251,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,18902,134,8,8,https://jmeter.apache.org/download_jmeter.cgi,243,0,0
+1784785202261,428,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-7,text,true,,138567,144,8,8,https://practicetestautomation.com/practice-test-table/,379,0,0
+1784785202411,399,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,121865,144,7,7,https://practicetestautomation.com/practice-test-login/,341,0,0
+1784785202566,268,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,26625,227,7,7,https://cucumber.io/docs/,115,0,0
+1784785202566,115,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-6,,true,,729,113,7,7,https://cucumber.io/docs,115,0,0
+1784785202681,153,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,25896,114,7,7,https://cucumber.io/docs/,138,0,0
+1784785202474,370,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,122034,144,7,7,https://practicetestautomation.com/practice-test-login/,318,0,0
+1784785202462,415,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,32717,126,7,7,https://maven.apache.org/download.cgi,255,0,0
+1784785202621,329,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,32812,126,7,7,https://maven.apache.org/download.cgi,222,0,0
+1784785202519,432,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,32717,126,7,7,https://maven.apache.org/download.cgi,353,0,0
+1784785202630,405,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-3,text,true,,138718,144,7,7,https://practicetestautomation.com/practice-test-table/,351,0,0
+1784785202844,245,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,32813,126,6,6,https://maven.apache.org/download.cgi,225,0,0
+1784785202877,274,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,26629,227,6,6,https://cucumber.io/docs/,119,0,0
+1784785202877,119,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-5,,true,,731,113,6,6,https://cucumber.io/docs,119,0,0
+1784785202996,155,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,25898,114,6,6,https://cucumber.io/docs/,145,0,0
+1784785202835,317,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,18902,134,6,6,https://jmeter.apache.org/download_jmeter.cgi,240,0,0
+1784785202810,367,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,32798,126,6,6,https://maven.apache.org/download.cgi,225,0,0
+1784785202951,294,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,26627,227,6,6,https://cucumber.io/docs/,127,0,0
+1784785202951,127,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-8,,true,,731,113,6,6,https://cucumber.io/docs,127,0,0
+1784785203078,167,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,25896,114,6,6,https://cucumber.io/docs/,151,0,0
+1784785202952,310,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,26635,227,6,6,https://cucumber.io/docs/,124,0,0
+1784785202952,124,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-4,,true,,735,113,6,6,https://cucumber.io/docs,124,0,0
+1784785203076,186,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,25900,114,6,6,https://cucumber.io/docs/,171,0,0
+1784785203151,223,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,18942,134,6,6,https://jmeter.apache.org/download_jmeter.cgi,204,0,0
+1784785203089,316,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,26629,227,6,6,https://cucumber.io/docs/,152,0,0
+1784785203089,152,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-2,,true,,733,113,6,6,https://cucumber.io/docs,152,0,0
+1784785203242,163,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,25896,114,6,6,https://cucumber.io/docs/,145,0,0
+1784785203177,247,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,26637,227,6,6,https://cucumber.io/docs/,110,0,0
+1784785203177,110,HTTP Request-0,308,Permanent Redirect,Non-GUI TestCases Using CSV Files 1-1,,true,,735,113,6,6,https://cucumber.io/docs,110,0,0
+1784785203288,136,HTTP Request-1,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,25902,114,6,6,https://cucumber.io/docs/,133,0,0
+1784785203263,216,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,18902,134,6,6,https://jmeter.apache.org/download_jmeter.cgi,209,0,0
+1784785203246,269,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,18902,134,6,6,https://jmeter.apache.org/download_jmeter.cgi,233,0,0
+1784785203152,407,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-6,text,true,,138714,144,6,6,https://practicetestautomation.com/practice-test-table/,344,0,0
+1784785203406,224,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,18894,134,5,5,https://jmeter.apache.org/download_jmeter.cgi,209,0,0
+1784785203424,212,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,18893,134,5,5,https://jmeter.apache.org/download_jmeter.cgi,211,0,0
+1784785203375,544,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-5,text,true,,138714,144,5,5,https://practicetestautomation.com/practice-test-table/,345,0,0
+1784785203479,792,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-4,text,true,,138712,144,4,4,https://practicetestautomation.com/practice-test-table/,447,0,0
+1784785203515,1630,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-8,text,true,,138714,144,3,3,https://practicetestautomation.com/practice-test-table/,782,0,0
+1784785203631,1779,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-2,text,true,,138708,144,2,2,https://practicetestautomation.com/practice-test-table/,1559,0,0
+1784785203636,1813,HTTP Request,200,OK,Non-GUI TestCases Using CSV Files 1-1,text,true,,138565,144,1,1,https://practicetestautomation.com/practice-test-table/,1708,0,0
